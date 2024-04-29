@@ -19,3 +19,14 @@ public class Classgdbji
         Console.WriteLine("Random number: 56");
     }
 }
+
+
+using System;
+
+public class Classmfogr
+{
+    public void Methodefrez()
+    {
+        Console.WriteLine("Random number: 558");
+    }
+}
