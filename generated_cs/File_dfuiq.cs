@@ -19,3 +19,14 @@ public class Classjyroy
         Console.WriteLine("Random number: 128");
     }
 }
+
+
+using System;
+
+public class Classmqayt
+{
+    public void Methodnuoii()
+    {
+        Console.WriteLine("Random number: 326");
+    }
+}
