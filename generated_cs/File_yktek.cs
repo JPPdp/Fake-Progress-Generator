@@ -19,3 +19,14 @@ public class Classzvnbf
         Console.WriteLine("Random number: 767");
     }
 }
+
+
+using System;
+
+public class Classtupzi
+{
+    public void Methodhmxoi()
+    {
+        Console.WriteLine("Random number: 138");
+    }
+}
