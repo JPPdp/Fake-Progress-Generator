@@ -8,3 +8,14 @@ public class Classkpgej
         Console.WriteLine("Random number: 543");
     }
 }
+
+
+using System;
+
+public class Classfzthx
+{
+    public void Methodpibbq()
+    {
+        Console.WriteLine("Random number: 134");
+    }
+}
