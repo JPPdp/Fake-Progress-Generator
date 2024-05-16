@@ -8,3 +8,14 @@ public class Classihrva
         Console.WriteLine("Random number: 229");
     }
 }
+
+
+using System;
+
+public class Classaouiv
+{
+    public void Methodermnf()
+    {
+        Console.WriteLine("Random number: 270");
+    }
+}
