@@ -19,3 +19,14 @@ public class Classyrnop
         Console.WriteLine("Random number: 615");
     }
 }
+
+
+using System;
+
+public class Classrqfto
+{
+    public void Methodkabrg()
+    {
+        Console.WriteLine("Random number: 422");
+    }
+}
