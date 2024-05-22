@@ -8,3 +8,14 @@ public class Classujlhc
         Console.WriteLine("Random number: 341");
     }
 }
+
+
+using System;
+
+public class Classpxnpp
+{
+    public void Methodtbkvr()
+    {
+        Console.WriteLine("Random number: 73");
+    }
+}
