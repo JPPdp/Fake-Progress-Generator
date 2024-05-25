@@ -41,3 +41,14 @@ public class Classcvwsi
         Console.WriteLine("Random number: 235");
     }
 }
+
+
+using System;
+
+public class Classmsxuo
+{
+    public void Methodleuaq()
+    {
+        Console.WriteLine("Random number: 332");
+    }
+}
