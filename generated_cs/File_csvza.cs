@@ -41,3 +41,14 @@ public class Classtkbed
         Console.WriteLine("Random number: 649");
     }
 }
+
+
+using System;
+
+public class Classzimwe
+{
+    public void Methodgvgrc()
+    {
+        Console.WriteLine("Random number: 324");
+    }
+}
