@@ -19,3 +19,14 @@ public class Classrqpdb
         Console.WriteLine("Random number: 488");
     }
 }
+
+
+using System;
+
+public class Classfbgmj
+{
+    public void Methodnbcxm()
+    {
+        Console.WriteLine("Random number: 180");
+    }
+}
