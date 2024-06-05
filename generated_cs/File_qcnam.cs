@@ -19,3 +19,14 @@ public class Classulemj
         Console.WriteLine("Random number: 968");
     }
 }
+
+
+using System;
+
+public class Classedfuk
+{
+    public void Methodwjwnf()
+    {
+        Console.WriteLine("Random number: 957");
+    }
+}
