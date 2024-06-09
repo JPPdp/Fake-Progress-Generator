@@ -30,3 +30,14 @@ public class Classgvdek
         Console.WriteLine("Random number: 259");
     }
 }
+
+
+using System;
+
+public class Classaipmz
+{
+    public void Methodqajyi()
+    {
+        Console.WriteLine("Random number: 193");
+    }
+}
