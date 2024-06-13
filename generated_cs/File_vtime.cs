@@ -8,3 +8,14 @@ public class Classxszff
         Console.WriteLine("Random number: 252");
     }
 }
+
+
+using System;
+
+public class Classjhoto
+{
+    public void Methodunchz()
+    {
+        Console.WriteLine("Random number: 485");
+    }
+}
