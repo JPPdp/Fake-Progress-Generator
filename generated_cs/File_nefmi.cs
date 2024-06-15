@@ -30,3 +30,14 @@ public class Classfrrqo
         Console.WriteLine("Random number: 699");
     }
 }
+
+
+using System;
+
+public class Classityaz
+{
+    public void Methodwijww()
+    {
+        Console.WriteLine("Random number: 99");
+    }
+}
