@@ -8,3 +8,14 @@ public class Classeruqj
         Console.WriteLine("Random number: 362");
     }
 }
+
+
+using System;
+
+public class Classztpnr
+{
+    public void Methodpxqdw()
+    {
+        Console.WriteLine("Random number: 803");
+    }
+}
