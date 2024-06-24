@@ -8,3 +8,14 @@ public class Classkejep
         Console.WriteLine("Random number: 828");
     }
 }
+
+
+using System;
+
+public class Classjpxdm
+{
+    public void Methodtafmc()
+    {
+        Console.WriteLine("Random number: 384");
+    }
+}
