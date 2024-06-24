@@ -8,3 +8,14 @@ public class Classennwd
         Console.WriteLine("Random number: 857");
     }
 }
+
+
+using System;
+
+public class Classrabdi
+{
+    public void Methodozqpg()
+    {
+        Console.WriteLine("Random number: 15");
+    }
+}
