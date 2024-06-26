@@ -19,3 +19,14 @@ public class Classmxltj
         Console.WriteLine("Random number: 772");
     }
 }
+
+
+using System;
+
+public class Classoaivh
+{
+    public void Methodzpjvl()
+    {
+        Console.WriteLine("Random number: 329");
+    }
+}
