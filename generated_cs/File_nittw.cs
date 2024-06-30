@@ -30,3 +30,14 @@ public class Classvhgwx
         Console.WriteLine("Random number: 399");
     }
 }
+
+
+using System;
+
+public class Classzcfms
+{
+    public void Methodkdzik()
+    {
+        Console.WriteLine("Random number: 489");
+    }
+}
