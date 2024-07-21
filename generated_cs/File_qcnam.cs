@@ -8,3 +8,14 @@ public class Classykzyq
         Console.WriteLine("Random number: 920");
     }
 }
+
+
+using System;
+
+public class Classulemj
+{
+    public void Methoducyrl()
+    {
+        Console.WriteLine("Random number: 968");
+    }
+}
