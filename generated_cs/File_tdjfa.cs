@@ -19,3 +19,14 @@ public class Classxxvnn
         Console.WriteLine("Random number: 888");
     }
 }
+
+
+using System;
+
+public class Classnavyv
+{
+    public void Methodkfzkm()
+    {
+        Console.WriteLine("Random number: 903");
+    }
+}
