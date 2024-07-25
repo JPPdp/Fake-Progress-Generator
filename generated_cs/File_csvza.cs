@@ -19,3 +19,14 @@ public class Classvaeli
         Console.WriteLine("Random number: 746");
     }
 }
+
+
+using System;
+
+public class Classzdpwv
+{
+    public void Methodpkwtg()
+    {
+        Console.WriteLine("Random number: 76");
+    }
+}
