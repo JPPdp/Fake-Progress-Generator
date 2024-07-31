@@ -19,3 +19,14 @@ public class Classnymuu
         Console.WriteLine("Random number: 349");
     }
 }
+
+
+using System;
+
+public class Classfevzr
+{
+    public void Methodfwhek()
+    {
+        Console.WriteLine("Random number: 814");
+    }
+}
