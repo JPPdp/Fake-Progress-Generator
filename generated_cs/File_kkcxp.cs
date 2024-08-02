@@ -8,3 +8,14 @@ public class Classauhac
         Console.WriteLine("Random number: 329");
     }
 }
+
+
+using System;
+
+public class Classyrnop
+{
+    public void Methodscynw()
+    {
+        Console.WriteLine("Random number: 615");
+    }
+}
