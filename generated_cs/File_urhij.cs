@@ -41,3 +41,14 @@ public class Classstzgg
         Console.WriteLine("Random number: 982");
     }
 }
+
+
+using System;
+
+public class Classuhqar
+{
+    public void Methodwygwa()
+    {
+        Console.WriteLine("Random number: 136");
+    }
+}
