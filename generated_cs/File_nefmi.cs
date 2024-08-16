@@ -19,3 +19,14 @@ public class Classbxjko
         Console.WriteLine("Random number: 975");
     }
 }
+
+
+using System;
+
+public class Classfrrqo
+{
+    public void Methodflpdd()
+    {
+        Console.WriteLine("Random number: 699");
+    }
+}
