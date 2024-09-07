@@ -8,3 +8,14 @@ public class Classwvyje
         Console.WriteLine("Random number: 220");
     }
 }
+
+
+using System;
+
+public class Classuweiw
+{
+    public void Methodkxlch()
+    {
+        Console.WriteLine("Random number: 841");
+    }
+}
