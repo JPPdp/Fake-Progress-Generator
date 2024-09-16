@@ -8,3 +8,14 @@ public class Classcaftc
         Console.WriteLine("Random number: 258");
     }
 }
+
+
+using System;
+
+public class Classfudoh
+{
+    public void Methodidnhu()
+    {
+        Console.WriteLine("Random number: 885");
+    }
+}
