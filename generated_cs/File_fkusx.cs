@@ -19,3 +19,14 @@ public class Classuebwr
         Console.WriteLine("Random number: 463");
     }
 }
+
+
+using System;
+
+public class Classwiuor
+{
+    public void Methodsvflz()
+    {
+        Console.WriteLine("Random number: 766");
+    }
+}
