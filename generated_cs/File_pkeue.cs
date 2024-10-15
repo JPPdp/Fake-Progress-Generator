@@ -30,3 +30,14 @@ public class Classdkijy
         Console.WriteLine("Random number: 939");
     }
 }
+
+
+using System;
+
+public class Classdqwbc
+{
+    public void Methodzxrqo()
+    {
+        Console.WriteLine("Random number: 919");
+    }
+}
