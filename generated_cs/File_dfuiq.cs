@@ -30,3 +30,14 @@ public class Classmqayt
         Console.WriteLine("Random number: 326");
     }
 }
+
+
+using System;
+
+public class Classgghiy
+{
+    public void Methodnyayi()
+    {
+        Console.WriteLine("Random number: 561");
+    }
+}
