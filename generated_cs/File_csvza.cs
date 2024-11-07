@@ -63,3 +63,14 @@ public class Classnykdq
         Console.WriteLine("Random number: 979");
     }
 }
+
+
+using System;
+
+public class Classpnmzw
+{
+    public void Methodszdws()
+    {
+        Console.WriteLine("Random number: 797");
+    }
+}
