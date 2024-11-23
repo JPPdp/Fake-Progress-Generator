@@ -8,3 +8,14 @@ public class Classyltfq
         Console.WriteLine("Random number: 286");
     }
 }
+
+
+using System;
+
+public class Classqoems
+{
+    public void Methodobely()
+    {
+        Console.WriteLine("Random number: 257");
+    }
+}
