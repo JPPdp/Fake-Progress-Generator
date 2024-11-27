@@ -41,3 +41,14 @@ public class Classzcfms
         Console.WriteLine("Random number: 489");
     }
 }
+
+
+using System;
+
+public class Classpaldq
+{
+    public void Methodtydot()
+    {
+        Console.WriteLine("Random number: 21");
+    }
+}
