@@ -8,3 +8,14 @@ public class Classdsdqk
         Console.WriteLine("Random number: 319");
     }
 }
+
+
+using System;
+
+public class Classaiqqf
+{
+    public void Methodizmfw()
+    {
+        Console.WriteLine("Random number: 411");
+    }
+}
