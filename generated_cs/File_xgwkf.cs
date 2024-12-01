@@ -19,3 +19,14 @@ public class Classaouiv
         Console.WriteLine("Random number: 270");
     }
 }
+
+
+using System;
+
+public class Classioadh
+{
+    public void Methodwnyak()
+    {
+        Console.WriteLine("Random number: 926");
+    }
+}
