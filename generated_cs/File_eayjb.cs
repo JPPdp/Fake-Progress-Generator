@@ -30,3 +30,14 @@ public class Classoaivh
         Console.WriteLine("Random number: 329");
     }
 }
+
+
+using System;
+
+public class Classlnluo
+{
+    public void Methodipnda()
+    {
+        Console.WriteLine("Random number: 3");
+    }
+}
