@@ -19,3 +19,14 @@ public class Classpilxg
         Console.WriteLine("Random number: 398");
     }
 }
+
+
+using System;
+
+public class Classdkijy
+{
+    public void Methodzhrod()
+    {
+        Console.WriteLine("Random number: 939");
+    }
+}
