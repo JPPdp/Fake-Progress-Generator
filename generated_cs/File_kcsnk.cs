@@ -19,3 +19,14 @@ public class Classbntif
         Console.WriteLine("Random number: 802");
     }
 }
+
+
+using System;
+
+public class Classxixva
+{
+    public void Methodgcqxq()
+    {
+        Console.WriteLine("Random number: 804");
+    }
+}
