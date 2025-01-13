@@ -8,3 +8,14 @@ public class Classmsmpa
         Console.WriteLine("Random number: 428");
     }
 }
+
+
+using System;
+
+public class Classiftai
+{
+    public void Methodiqhkv()
+    {
+        Console.WriteLine("Random number: 489");
+    }
+}
