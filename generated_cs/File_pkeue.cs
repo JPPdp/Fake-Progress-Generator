@@ -52,3 +52,14 @@ public class Classqsosq
         Console.WriteLine("Random number: 694");
     }
 }
+
+
+using System;
+
+public class Classlmtqa
+{
+    public void Methodsjphm()
+    {
+        Console.WriteLine("Random number: 72");
+    }
+}
