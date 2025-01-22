@@ -8,3 +8,14 @@ public class Classvqcgm
         Console.WriteLine("Random number: 456");
     }
 }
+
+
+using System;
+
+public class Classifgmx
+{
+    public void Methodfxxrm()
+    {
+        Console.WriteLine("Random number: 31");
+    }
+}
