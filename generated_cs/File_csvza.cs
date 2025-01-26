@@ -30,3 +30,14 @@ public class Classzdpwv
         Console.WriteLine("Random number: 76");
     }
 }
+
+
+using System;
+
+public class Classtkbed
+{
+    public void Methodffnpf()
+    {
+        Console.WriteLine("Random number: 649");
+    }
+}
