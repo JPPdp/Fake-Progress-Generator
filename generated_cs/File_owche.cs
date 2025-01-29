@@ -41,3 +41,14 @@ public class Classaipmz
         Console.WriteLine("Random number: 193");
     }
 }
+
+
+using System;
+
+public class Classolsun
+{
+    public void Methodtpqmb()
+    {
+        Console.WriteLine("Random number: 106");
+    }
+}
