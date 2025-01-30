@@ -19,3 +19,14 @@ public class Classmnela
         Console.WriteLine("Random number: 257");
     }
 }
+
+
+using System;
+
+public class Classooyhk
+{
+    public void Methodxheqs()
+    {
+        Console.WriteLine("Random number: 257");
+    }
+}
