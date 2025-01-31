@@ -8,3 +8,14 @@ public class Classydsua
         Console.WriteLine("Random number: 625");
     }
 }
+
+
+using System;
+
+public class Classkjdkc
+{
+    public void Methodfosto()
+    {
+        Console.WriteLine("Random number: 550");
+    }
+}
