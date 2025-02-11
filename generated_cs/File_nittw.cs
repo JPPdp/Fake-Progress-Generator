@@ -8,3 +8,14 @@ public class Classyfpix
         Console.WriteLine("Random number: 291");
     }
 }
+
+
+using System;
+
+public class Classfespt
+{
+    public void Methodwllmx()
+    {
+        Console.WriteLine("Random number: 476");
+    }
+}
