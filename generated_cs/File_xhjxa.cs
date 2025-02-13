@@ -19,3 +19,14 @@ public class Classmdgia
         Console.WriteLine("Random number: 158");
     }
 }
+
+
+using System;
+
+public class Classqhvcg
+{
+    public void Methodhzequ()
+    {
+        Console.WriteLine("Random number: 159");
+    }
+}
