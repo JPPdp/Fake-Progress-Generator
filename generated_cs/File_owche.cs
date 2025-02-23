@@ -19,3 +19,14 @@ public class Classiftai
         Console.WriteLine("Random number: 489");
     }
 }
+
+
+using System;
+
+public class Classgvdek
+{
+    public void Methodxuylt()
+    {
+        Console.WriteLine("Random number: 259");
+    }
+}
