@@ -19,3 +19,14 @@ public class Classaiqqf
         Console.WriteLine("Random number: 411");
     }
 }
+
+
+using System;
+
+public class Classgwylb
+{
+    public void Methodmjebl()
+    {
+        Console.WriteLine("Random number: 153");
+    }
+}
