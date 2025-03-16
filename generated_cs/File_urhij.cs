@@ -30,3 +30,14 @@ public class Classixwtr
         Console.WriteLine("Random number: 127");
     }
 }
+
+
+using System;
+
+public class Classstzgg
+{
+    public void Methodmrutq()
+    {
+        Console.WriteLine("Random number: 982");
+    }
+}
