@@ -30,3 +30,14 @@ public class Classooyhk
         Console.WriteLine("Random number: 257");
     }
 }
+
+
+using System;
+
+public class Classhooxw
+{
+    public void Methodxmawh()
+    {
+        Console.WriteLine("Random number: 949");
+    }
+}
