@@ -8,3 +8,14 @@ public class Classfrcaj
         Console.WriteLine("Random number: 424");
     }
 }
+
+
+using System;
+
+public class Classvaeli
+{
+    public void Methoduvzrz()
+    {
+        Console.WriteLine("Random number: 746");
+    }
+}
