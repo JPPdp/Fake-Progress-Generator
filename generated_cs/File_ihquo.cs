@@ -19,3 +19,14 @@ public class Classfudoh
         Console.WriteLine("Random number: 885");
     }
 }
+
+
+using System;
+
+public class Classngyzk
+{
+    public void Methodkqjct()
+    {
+        Console.WriteLine("Random number: 288");
+    }
+}
