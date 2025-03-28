@@ -30,3 +30,14 @@ public class Classjcmlk
         Console.WriteLine("Random number: 675");
     }
 }
+
+
+using System;
+
+public class Classzcpth
+{
+    public void Methodzcfil()
+    {
+        Console.WriteLine("Random number: 610");
+    }
+}
