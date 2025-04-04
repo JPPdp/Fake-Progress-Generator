@@ -30,3 +30,14 @@ public class Classrqfto
         Console.WriteLine("Random number: 422");
     }
 }
+
+
+using System;
+
+public class Classcvwsi
+{
+    public void Methodkupxn()
+    {
+        Console.WriteLine("Random number: 235");
+    }
+}
