@@ -41,3 +41,14 @@ public class Classdqwbc
         Console.WriteLine("Random number: 919");
     }
 }
+
+
+using System;
+
+public class Classqsosq
+{
+    public void Methodgopgl()
+    {
+        Console.WriteLine("Random number: 694");
+    }
+}
