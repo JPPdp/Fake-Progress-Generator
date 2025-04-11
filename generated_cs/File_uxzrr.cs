@@ -8,3 +8,14 @@ public class Classapxqd
         Console.WriteLine("Random number: 817");
     }
 }
+
+
+using System;
+
+public class Classajyry
+{
+    public void Methodtxips()
+    {
+        Console.WriteLine("Random number: 711");
+    }
+}
