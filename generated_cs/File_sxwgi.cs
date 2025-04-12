@@ -19,3 +19,14 @@ public class Classogsja
         Console.WriteLine("Random number: 708");
     }
 }
+
+
+using System;
+
+public class Classjcmlk
+{
+    public void Methodznbgv()
+    {
+        Console.WriteLine("Random number: 675");
+    }
+}
