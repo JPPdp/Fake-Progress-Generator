@@ -8,3 +8,14 @@ public class Classddplk
         Console.WriteLine("Random number: 253");
     }
 }
+
+
+using System;
+
+public class Classogsja
+{
+    public void Methodhelpe()
+    {
+        Console.WriteLine("Random number: 708");
+    }
+}
