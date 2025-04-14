@@ -8,3 +8,14 @@ public class Classvouui
         Console.WriteLine("Random number: 937");
     }
 }
+
+
+using System;
+
+public class Classgdbji
+{
+    public void Methodkjols()
+    {
+        Console.WriteLine("Random number: 56");
+    }
+}
