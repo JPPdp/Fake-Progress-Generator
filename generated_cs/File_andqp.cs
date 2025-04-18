@@ -8,3 +8,14 @@ public class Classbjppn
         Console.WriteLine("Random number: 636");
     }
 }
+
+
+using System;
+
+public class Classhqrrh
+{
+    public void Methodznpii()
+    {
+        Console.WriteLine("Random number: 265");
+    }
+}
