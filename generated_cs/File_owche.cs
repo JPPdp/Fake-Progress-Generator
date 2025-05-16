@@ -52,3 +52,14 @@ public class Classolsun
         Console.WriteLine("Random number: 106");
     }
 }
+
+
+using System;
+
+public class Classwgaco
+{
+    public void Methodgjyum()
+    {
+        Console.WriteLine("Random number: 928");
+    }
+}
